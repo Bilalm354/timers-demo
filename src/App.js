@@ -7,7 +7,7 @@ class App extends Component {
   render() {
   return (
     <div className="App">
-     <div className="App-title">Stopwatch and Countdown</div>
+     <div className="App-title"></div>
       <div className="Timers">
         <Stopwatch />
         <Countdown />
